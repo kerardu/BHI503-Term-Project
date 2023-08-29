@@ -1,0 +1,13 @@
+BHI 503 Project Proposal
+
+Paragraph One should concisely summarize the real-world problem to solve and outline solution ideas for the problem.
+
+Paragraph Two should explain who the users are, or might be.
+
+Paragraph Three should specify the goals of the proposed eHealth Systems system project. In other words, what aspects of the problem will your project solve, and which functions will be provided to its users.
+
+Paragraph Four should provide some background information about the project and reference at least 5 bibliographic references. Some of these may be related to the application domain, others may refer to pertinent other eHealth work performed in this particular domain.       
+
+How is this application area defined? What characteristics would identify a project as belonging to this area of research? (these are "basic definition" questions)
+What sort of eHealth projects have been performed in this area? How much work has been done in the area? (these are "state of research in the area" questions)
+What is the broader context of this area of research? What are benefits of research in this area? Why is this area of research interesting to society? What are broader implications, economically, socially, etc.? What are closely related areas of study? (these are "broader context" questions).
